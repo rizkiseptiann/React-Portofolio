@@ -93,7 +93,7 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Website UMKM",
+    nama: "Website Azjovi Bakery",
     desk: "Mengembangkan situs web menggunakan Bootstrap, memanfaatkan teknologi modern untuk meningkatkan fungsionalitas dan responsivitas. Website ini dirancang sebagai platform promosi dan katalog produk untuk UMKM yang bergerak di bidang kuliner, khususnya penjualan kue tradisional. Website menampilkan informasi produk, deskripsi usaha, serta meningkatkan daya tarik visual dan membantu pelanggan lebih mudah mengenal produk yang ditawarkan.",
     tools: ["PHP", "CSS", "Javascript", "Bootstrap"],
     dad: "200",
